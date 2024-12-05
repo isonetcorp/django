@@ -1,11 +1,3 @@
-## Iniciar entorno virtual
-
-
-Windows:
-```powershell
-venv\Scripts\activate
-```
-
 ## Instalar dependencias
 
 ```bash
