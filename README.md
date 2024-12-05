@@ -1,9 +1,5 @@
 ## Iniciar entorno virtual
 
-Mac/Linux:
-```bash
-source venv/bin/activate
-```
 
 Windows:
 ```powershell
